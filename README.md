@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthony-hero
 - 👀 I’m interested in helping BeautyfulHero 
-- 🌱 I’m currently learning drools and react-native
+- 🌱 I’m currently learning drools and flutter
 - 💞️ I’m looking to collaborate on the HeroApp
 - 📫 You can reach me at anthony.nguyen@beautyfulhero.com 
 
